@@ -33,7 +33,6 @@ function Pricing() {
         buttonText: 'Get Pro',
         buttonVariant: 'primary',
     };
-
     return (
         // <> is a React Fragment — groups elements without adding extra HTML divs
         <>
